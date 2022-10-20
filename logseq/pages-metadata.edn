@@ -25,6 +25,9 @@
  {:block/name "done",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
+ {:block/name "f200 --- pc相对寻址的疑问",
+  :block/created-at 1666235614480,
+  :block/updated-at 1666236394541}
  {:block/name "favorites",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
@@ -43,6 +46,9 @@
  {:block/name "oct 19th, 2022",
   :block/created-at 1666162594422,
   :block/updated-at 1666162594422}
+ {:block/name "oct 20th, 2022",
+  :block/created-at 1666229483966,
+  :block/updated-at 1666229483966}
  {:block/name "r1 --- 信息的表示和处理",
   :block/created-at 1666163014096,
   :block/updated-at 1666163033106}
@@ -79,6 +85,9 @@
  {:block/name "r20001 --- 标称大小",
   :block/created-at 1666164202230,
   :block/updated-at 1666164215571}
+ {:block/name "r20002 --- instruction fetch unit",
+  :block/created-at 1666250332145,
+  :block/updated-at 1666250647336}
  {:block/name "r4 --- x86-64的字、双字和四字",
   :block/created-at 1666164595753,
   :block/updated-at 1666164635182}
@@ -123,10 +132,25 @@
   :block/updated-at 1666169708055}
  {:block/name "r4g3a --- x86-64 跳转指令的编码",
   :block/created-at 1666169742155,
-  :block/updated-at 1666169742155}
- {:block/name "refrence notes",
+  :block/updated-at 1666235559820}
+ {:block/name "r5 --- 虚拟内存",
+  :block/created-at 1666230411414,
+  :block/updated-at 1666231997969}
+ {:block/name "r5a --- 物理和虚拟寻址",
+  :block/created-at 1666232281973,
+  :block/updated-at 1666255526911}
+ {:block/name "r6 --- risc-v",
+  :block/created-at 1666248070955,
+  :block/updated-at 1666248178009}
+ {:block/name "r6a1 --- risc-v hardware platform terminology",
+  :block/created-at 1666248273944,
+  :block/updated-at 1666251427033}
+ {:block/name "ref notes",
   :block/created-at 1666162683384,
   :block/updated-at 1666162695969}
+ {:block/name "ref table",
+  :block/created-at 1666243481767,
+  :block/updated-at 1666256182548}
  {:block/name "source-id",
   :block/created-at 1666162844429,
   :block/updated-at 1666162844429}
