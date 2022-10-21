@@ -1,0 +1,5 @@
+- 笔记分类为`P`(permanent)、`R`(reference)和`F`(fleet)
+- `R`
+	- 第一个数字代表类别
+	- 第一个字母代表来源
+	-

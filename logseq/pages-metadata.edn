@@ -25,7 +25,7 @@
  {:block/name "done",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
- {:block/name "f200 --- pc相对寻址的疑问",
+ {:block/name "f1 --- pc相对寻址的疑问",
   :block/created-at 1666235614480,
   :block/updated-at 1666236394541}
  {:block/name "favorites",
@@ -37,126 +37,126 @@
  {:block/name "later",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
- {:block/name "note-type",
-  :block/created-at 1666162844427,
-  :block/updated-at 1666162844427}
  {:block/name "now",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
- {:block/name "oct 19th, 2022",
-  :block/created-at 1666162594422,
-  :block/updated-at 1666162594422}
- {:block/name "oct 20th, 2022",
-  :block/created-at 1666229483966,
-  :block/updated-at 1666229483966}
- {:block/name "r1 --- 信息的表示和处理",
+ {:block/name "oct 21st, 2022",
+  :block/created-at 1666333885439,
+  :block/updated-at 1666333885439}
+ {:block/name "p1 --- note",
+  :block/created-at 1666334272078,
+  :block/updated-at 1666334390155}
+ {:block/name "r1a1 --- 信息的表示和处理",
   :block/created-at 1666163014096,
-  :block/updated-at 1666163033106}
- {:block/name "r1a --- 字节顺序",
+  :block/updated-at 1666332705012}
+ {:block/name "r1a1a --- 字节顺序",
   :block/created-at 1666163185638,
-  :block/updated-at 1666163201747}
- {:block/name "r1a1 --- big endian",
+  :block/updated-at 1666332892334}
+ {:block/name "r1a1a1 --- big endian",
   :block/created-at 1666162824483,
-  :block/updated-at 1666162908819}
- {:block/name "r1a2 --- little endian",
+  :block/updated-at 1666332764701}
+ {:block/name "r1a1a2 --- little endian",
   :block/created-at 1666163088774,
-  :block/updated-at 1666163105303}
- {:block/name "r1b --- 无符号数的编码",
+  :block/updated-at 1666332837287}
+ {:block/name "r1a1b --- 无符号数的编码",
   :block/created-at 1666163298664,
-  :block/updated-at 1666163313843}
- {:block/name "r1c --- 补码编码",
+  :block/updated-at 1666332908568}
+ {:block/name "r1a1c --- 补码编码",
   :block/created-at 1666163554176,
-  :block/updated-at 1666163667566}
- {:block/name "r1d --- 无符号数和补码的相互转换",
+  :block/updated-at 1666332960830}
+ {:block/name "r1a1d --- 无符号数和补码的相互转换",
   :block/created-at 1666163718661,
-  :block/updated-at 1666163736873}
- {:block/name "r1e --- 数的伸缩",
+  :block/updated-at 1666332973227}
+ {:block/name "r1a1e --- 数的伸缩",
   :block/created-at 1666163801187,
-  :block/updated-at 1666163814286}
- {:block/name "r1f --- 整数运算",
+  :block/updated-at 1666332989483}
+ {:block/name "r1a1f --- 整数运算",
   :block/created-at 1666163921803,
-  :block/updated-at 1666163981326}
- {:block/name "r1g --- ieee浮点数编码",
+  :block/updated-at 1666332998758}
+ {:block/name "r1a1g --- ieee浮点数编码",
   :block/created-at 1666164046248,
-  :block/updated-at 1666164059393}
- {:block/name "r2 --- 字长和内存",
+  :block/updated-at 1666333024412}
+ {:block/name "r1a1h --- 字长和内存",
   :block/created-at 1666164292319,
-  :block/updated-at 1666168912312}
- {:block/name "r20001 --- 标称大小",
-  :block/created-at 1666164202230,
-  :block/updated-at 1666164215571}
- {:block/name "r20002 --- instruction fetch unit",
-  :block/created-at 1666250332145,
-  :block/updated-at 1666250647336}
- {:block/name "r4 --- x86-64的字、双字和四字",
+  :block/updated-at 1666333051432}
+ {:block/name "r1a4 --- x86-64的字、双字和四字",
   :block/created-at 1666164595753,
-  :block/updated-at 1666164635182}
- {:block/name "r4a --- x86-64下的c数据类型",
+  :block/updated-at 1666333155964}
+ {:block/name "r1a4a --- x86-64下的c数据类型",
   :block/created-at 1666167797901,
-  :block/updated-at 1666168719422}
- {:block/name "r4b --- x86-64 通用目的寄存器",
+  :block/updated-at 1666333289306}
+ {:block/name "r1a4b --- x86-64 通用目的寄存器",
   :block/created-at 1666167905524,
-  :block/updated-at 1666167919327}
- {:block/name "r4c --- x86-64 操作数指示符",
+  :block/updated-at 1666333340455}
+ {:block/name "r1a4c --- x86-64 操作数指示符",
   :block/created-at 1666168203972,
-  :block/updated-at 1666168215541}
- {:block/name "r4d --- x86-64 mov类指令",
+  :block/updated-at 1666333350339}
+ {:block/name "r1a4d --- x86-64 mov类指令",
   :block/created-at 1666169031908,
-  :block/updated-at 1666169042988}
- {:block/name "r4e --- x86-64 栈操作指令",
+  :block/updated-at 1666333377475}
+ {:block/name "r1a4e --- x86-64 栈操作指令",
   :block/created-at 1666169080717,
-  :block/updated-at 1666169094556}
- {:block/name "r4f --- x86-64 算数和逻辑操作",
+  :block/updated-at 1666333395807}
+ {:block/name "r1a4f --- x86-64 算数和逻辑操作",
   :block/created-at 1666169132236,
-  :block/updated-at 1666169144798}
- {:block/name "r4f1 --- x86-64 加载有效地址",
+  :block/updated-at 1666333420113}
+ {:block/name "r1a4f1 --- x86-64 加载有效地址",
   :block/created-at 1666169170552,
-  :block/updated-at 1666169199802}
- {:block/name "r4f2 --- x86-64 整数全乘法和除法",
+  :block/updated-at 1666333451637}
+ {:block/name "r1a4f2 --- x86-64 整数全乘法和除法",
   :block/created-at 1666169170555,
-  :block/updated-at 1666169248264}
- {:block/name "r4f2a --- x86-64 全乘法例子",
+  :block/updated-at 1666333469438}
+ {:block/name "r1a4f2a --- x86-64 全乘法例子",
   :block/created-at 1666169269618,
-  :block/updated-at 1666169292531}
- {:block/name "r4f2b --- x86-64 除法例子",
+  :block/updated-at 1666333497675}
+ {:block/name "r1a4f2b --- x86-64 除法例子",
   :block/created-at 1666169269620,
-  :block/updated-at 1666169337952}
- {:block/name "r4g1 --- x86-64 条件码",
+  :block/updated-at 1666333521948}
+ {:block/name "r1a4g1 --- x86-64 条件码",
   :block/created-at 1666169446179,
-  :block/updated-at 1666169534841}
- {:block/name "r4g2 --- x86-64 set类指令",
+  :block/updated-at 1666333534821}
+ {:block/name "r1a4g2 --- x86-64 set类指令",
   :block/created-at 1666169617717,
-  :block/updated-at 1666169630416}
- {:block/name "r4g3 --- x86-64 jmp类指令",
+  :block/updated-at 1666333547746}
+ {:block/name "r1a4g3 --- x86-64 jmp类指令",
   :block/created-at 1666169695705,
-  :block/updated-at 1666169708055}
- {:block/name "r4g3a --- x86-64 跳转指令的编码",
+  :block/updated-at 1666333585818}
+ {:block/name "r1a4g3a --- x86-64 跳转指令的编码",
   :block/created-at 1666169742155,
-  :block/updated-at 1666235559820}
- {:block/name "r5 --- 虚拟内存",
+  :block/updated-at 1666333605415}
+ {:block/name "r1a5 --- 虚拟内存",
   :block/created-at 1666230411414,
-  :block/updated-at 1666231997969}
- {:block/name "r5a --- 物理和虚拟寻址",
+  :block/updated-at 1666333630587}
+ {:block/name "r1a5a --- 物理和虚拟寻址",
   :block/created-at 1666232281973,
-  :block/updated-at 1666255526911}
- {:block/name "r6 --- risc-v",
+  :block/updated-at 1666333652744}
+ {:block/name "r2a --- risc-v",
   :block/created-at 1666248070955,
-  :block/updated-at 1666248178009}
- {:block/name "r6a1 --- risc-v hardware platform terminology",
+  :block/updated-at 1666333738222}
+ {:block/name "r2a1 --- risc-v hardware platform terminology",
   :block/created-at 1666248273944,
-  :block/updated-at 1666251427033}
- {:block/name "ref notes",
-  :block/created-at 1666162683384,
-  :block/updated-at 1666162695969}
+  :block/updated-at 1666333725611}
+ {:block/name "r3a2 --- 向量",
+  :block/created-at 1666335486522,
+  :block/updated-at 1666337779799}
+ {:block/name "r3a2a --- 向量模板类",
+  :block/created-at 1666337459045,
+  :block/updated-at 1666337536989}
+ {:block/name "r3a2b --- 向量的构造与析构",
+  :block/created-at 1666337779799,
+  :block/updated-at 1666340757900}
+ {:block/name "r4a6g --- c++ 函数指针",
+  :block/created-at 1666316655751,
+  :block/updated-at 1666333802016}
  {:block/name "ref table",
   :block/created-at 1666243481767,
-  :block/updated-at 1666256182548}
- {:block/name "source-id",
-  :block/created-at 1666162844429,
-  :block/updated-at 1666162844429}
- {:block/name "source-type",
-  :block/created-at 1666162844428,
-  :block/updated-at 1666162844428}
+  :block/updated-at 1666334907583}
+ {:block/name "rw20001 --- 标称大小",
+  :block/created-at 1666164202230,
+  :block/updated-at 1666333314180}
+ {:block/name "rw20002 --- instruction fetch unit",
+  :block/created-at 1666250332145,
+  :block/updated-at 1666333859473}
  {:block/name "todo",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
