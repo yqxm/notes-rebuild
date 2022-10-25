@@ -5,7 +5,7 @@
 		  Bryant, Randal E., and David R. O’Hallaron. 深入理解计算机系统. Translated by 龚奕利 and 贺莲. Third Edition. Beijing: 机械工业出版社, 2016.
 		  #+END_PINNED
 	-
-- **2** 指令集
+- **2** 指令集和汇编
 	- *A*
 		- template:: tr2a
 		  #+BEGIN_PINNED
@@ -27,9 +27,42 @@
 		  #+END_PINNED
 	-
 - **5** 数学
-	- A
+	- *A*
 		- template:: tr5a
 		  #+BEGIN_PINNED
 		  Lehman, E., Leighton, F. T., & Meyer, A. R. (2019). 计算机科学中的数学 (唐李洋, 刘杰, 谭昶, & 金博, Trans.; 1st ed.). 电子工业出版社.
+		  #+END_PINNED
+- **6** 数据库
+	- *A*
+		- template:: tr6a
+		  #+BEGIN_PINNED
+		  Garcia-Molina, H., Ullman, J. D., & Widom, J. (2014). Database systems: the complete book (2nd ed.). Pearson.
+		  #+END_PINNED
+	- *B*
+		- template:: tr6b
+		  #+BEGIN_PINNED
+		  Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). Database system concepts (7th ed.). McGraw-Hill.
+		  #+END_PINNED
+- **7** 分布式
+	- *A*
+		- template:: tr7a
+		  #+BEGIN_PINNED
+		  Steen, M. van, & Tanenbaum, A. S. (2017). Distributed systems (3.01). Maarten van Steen.
+		  #+END_PINNED
+	- *B*
+		- template:: tr7b
+		  #+BEGIN_PINNED
+		  Kleppmann, M. (2017). Designing data-intensive applications (1st ed.). O’Reilly Media.
+		  #+END_PINNED
+- **8** 操作系统
+	- *A*
+		- template:: tr8a
+		  #+BEGIN_PINNED
+		  Cox, R., Kaashoek, F., & Morris, R. (2019). xv6: a simple, Unix-like teaching operating system reference (v202109 ed.).
+		  #+END_PINNED
+	- *B*
+		- template:: tr8b
+		  #+BEGIN_PINNED
+		  Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau, & Reiher, P. (2020). Operating systems: three easy pieces (v1.01). Arpaci-Dusseau Books, LLC.
 		  #+END_PINNED
 		-
