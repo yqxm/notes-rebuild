@@ -52,6 +52,9 @@
  {:block/name "oct 25th, 2022",
   :block/created-at 1666689789151,
   :block/updated-at 1666689789151}
+ {:block/name "oct 26th, 2022",
+  :block/created-at 1666713604135,
+  :block/updated-at 1666713604135}
  {:block/name "p1 --- note",
   :block/created-at 1666334272078,
   :block/updated-at 1666334390155}
@@ -142,9 +145,15 @@
  {:block/name "r2a --- risc-v",
   :block/created-at 1666248070955,
   :block/updated-at 1666333738222}
- {:block/name "r2a1 --- risc-v hardware platform terminology",
+ {:block/name "r2a1a --- risc-v hardware platform terminology",
   :block/created-at 1666248273944,
   :block/updated-at 1666333725611}
+ {:block/name "r2b1a --- number systems",
+  :block/created-at 1666750364676,
+  :block/updated-at 1666760626152}
+ {:block/name "r2b1b --- 80x86 computer organazation",
+  :block/created-at 1666760310395,
+  :block/updated-at 1666770295190}
  {:block/name "r3a2 --- 向量",
   :block/created-at 1666335486522,
   :block/updated-at 1666337779799}
@@ -177,7 +186,7 @@
   :block/updated-at 1666676175397}
  {:block/name "ref table",
   :block/created-at 1666243481767,
-  :block/updated-at 1666689190023}
+  :block/updated-at 1666750162772}
  {:block/name "rw20001 --- 标称大小",
   :block/created-at 1666164202230,
   :block/updated-at 1666333314180}
