@@ -70,4 +70,16 @@
 		  #+BEGIN_PINNED
 		  Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau, & Reiher, P. (2020). Operating systems: three easy pieces (v1.01). Arpaci-Dusseau Books, LLC.
 		  #+END_PINNED
-		-
+- **9** 软件工程
+	- *A*
+		- template:: tr9a
+		  #+BEGIN_PINNED
+		  Ousterhout, J. K. (2018). A philosophy of software design (1st ed.). Yaknyam Press.
+		  #+END_PINNED
+	- *B*
+		- template:: tr9b
+		  #+BEGIN_PINNED
+		  McConnell, S. (2006). 代码大全 (金戈, 汤凌, 陈硕, & 张菲, Trans.; 2nd ed.).
+		  #+END_PINNED
+-
+-
