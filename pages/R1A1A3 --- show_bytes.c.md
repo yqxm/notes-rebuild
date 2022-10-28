@@ -23,6 +23,6 @@
     show_bytes( (byte_pointer)&f, sizeof(float) );
   }
   ```
-- [[R1A1A3A --- 练习 2-5]]
-- [[R1A1A3B --- 练习 2-6]]
+- [[RE1A1A3A --- 练习 2-5]]
+- [[RE1A1A3B --- 练习 2-6]]
 -

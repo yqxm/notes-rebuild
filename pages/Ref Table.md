@@ -4,18 +4,21 @@
 		  #+BEGIN_PINNED
 		  Bryant, Randal E., and David R. O’Hallaron. 深入理解计算机系统. Translated by 龚奕利 and 贺莲. Third Edition. Beijing: 机械工业出版社, 2016.
 		  #+END_PINNED
-	-
+		- [[tr1a]]
+-
 - **2** 指令集和汇编
 	- *A*
 		- template:: tr2a
 		  #+BEGIN_PINNED
 		  Waterman, A., & Asanović, K. (2019). The RISC-V Instruction Set Manual: Vol. Unprivileged ISA (v20191213 ed.).
 		  #+END_PINNED
+		- [[tr2a]]
 	- *B*
 		- template:: tr2b
 		  #+BEGIN_PINNED
 		  Carter, P. A. (2003). PC Assembly Language. Self-published.
 		  #+END_PINNED
+		- [[tr2b]]
 	-
 - **3** 算法和数据结构
 	- *A*

@@ -10,7 +10,7 @@
 	  x, \quad x \geq 0
 	  \end{cases}
 	  $$
-	- ## 无符号数转补码
+- ## 无符号数转补码
 	- $$
 	  U2T_w(u) =
 	  \begin{cases}
@@ -18,4 +18,6 @@
 	  u-2^w\ ,\quad u > TMax_w
 	  \end{cases}
 	  $$
+- [[RE1A1D1 --- 练习 2-19]]
+-
 -
