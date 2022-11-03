@@ -52,15 +52,18 @@
  {:block/name "later",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
+ {:block/name "nov 3rd, 2022",
+  :block/created-at 1667441962290,
+  :block/updated-at 1667441962290}
  {:block/name "now",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
- {:block/name "oct 28th, 2022",
-  :block/created-at 1666919772608,
-  :block/updated-at 1666919772608}
  {:block/name "p1 --- note",
   :block/created-at 1666334272078,
   :block/updated-at 1666935944973}
+ {:block/name "permanents",
+  :block/created-at 1667283586784,
+  :block/updated-at 1667283618804}
  {:block/name "r1a1 --- 信息的表示和处理",
   :block/created-at 1666163014096,
   :block/updated-at 1666332705012}
@@ -171,7 +174,7 @@
   :block/updated-at 1666333725611}
  {:block/name "r2b1a --- number systems",
   :block/created-at 1666750364676,
-  :block/updated-at 1666760626152}
+  :block/updated-at 1667284389307}
  {:block/name "r2b1b --- 80x86 computer organazation",
   :block/created-at 1666760310395,
   :block/updated-at 1666770295190}
@@ -184,9 +187,18 @@
  {:block/name "r3a2b --- 向量的构造与析构",
   :block/created-at 1666337779799,
   :block/updated-at 1666685177227}
+ {:block/name "r3b5 --- 字符串",
+  :block/created-at 1667442391155,
+  :block/updated-at 1667457865350}
+ {:block/name "r3b5a --- 字符串排序",
+  :block/created-at 1667457892369,
+  :block/updated-at 1667468422205}
+ {:block/name "r3b5a1 --- key-indexed counting",
+  :block/created-at 1667468315963,
+  :block/updated-at 1667468346275}
  {:block/name "r4a12 --- c++ 动态内存",
   :block/created-at 1666580618963,
-  :block/updated-at 1666581688491}
+  :block/updated-at 1667284775040}
  {:block/name "r4a12a --- c++ 动态内存与智能指针",
   :block/created-at 1666581801601,
   :block/updated-at 1666583603430}
@@ -205,6 +217,9 @@
  {:block/name "r4a7a --- c++ 定义抽象数据类型",
   :block/created-at 1666665585080,
   :block/updated-at 1666676175397}
+ {:block/name "r4c1 --- 组件基础",
+  :block/created-at 1667285108428,
+  :block/updated-at 1667288731596}
  {:block/name "re1a1a3a --- 练习 2-5",
   :block/created-at 1666793380794,
   :block/updated-at 1666839225397}
@@ -246,7 +261,7 @@
   :block/updated-at 1666940246854}
  {:block/name "ref table",
   :block/created-at 1666243481767,
-  :block/updated-at 1666922659914}
+  :block/updated-at 1667442158025}
  {:block/name "todo",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
@@ -274,6 +289,27 @@
  {:block/name "tr2b --- introduction",
   :block/created-at 1666923290528,
   :block/updated-at 1666923296907}
+ {:block/name "tr3a",
+  :block/created-at 1667442149582,
+  :block/updated-at 1667442199850}
+ {:block/name "tr3b",
+  :block/created-at 1667442158025,
+  :block/updated-at 1667442221736}
+ {:block/name "tr4a",
+  :block/created-at 1667125669724,
+  :block/updated-at 1667146073632}
+ {:block/name "tr4a --- classes",
+  :block/created-at 1667146042536,
+  :block/updated-at 1667146093532}
+ {:block/name "tr4a --- dynamic memory",
+  :block/created-at 1667146057319,
+  :block/updated-at 1667146102718}
+ {:block/name "tr4a --- function",
+  :block/created-at 1667146073632,
+  :block/updated-at 1667146083322}
+ {:block/name "tr4c",
+  :block/created-at 1667285050128,
+  :block/updated-at 1667285120888}
  {:block/name "wait",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}

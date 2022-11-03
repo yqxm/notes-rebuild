@@ -26,14 +26,32 @@
 		  #+BEGIN_PINNED
 		  邓俊辉. (2013). 数据结构: C++语言版 (3rd ed.). 清华大学出版社.
 		  #+END_PINNED
-	-
+		- [[tr3a]]
+	- *B*
+		- template:: tr3b
+		  #+BEGIN_PINNED
+		  Sedgewick, R., & Wayne, K. (2012). 算法 (谢路云, Trans.; 4th ed.). 人民邮电出版社.
+		  #+END_PINNED
+		- [[tr3b]]
 - **4** 编程语言
 	- *A*
 		- template:: tr4a
 		  #+BEGIN_PINNED
 		  Lippman, S. B., Lajoie, J., & Moo, B. E. (2013). C++ Primer 中文版 (王刚 & 杨巨峰, Trans.; 5th ed.). 电子工业出版社.
 		  #+END_PINNED
-	-
+		- [[tr4a]]
+		-
+	- *B*
+		- template:: tr4b
+		  #+BEGIN_PINNED
+		  Goldberg, Josh. Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript. 1st ed., O’Reilly Media, Inc., 2022.
+		  #+END_PINNED
+	- *C*
+		- template:: tr4c
+		  #+BEGIN_PINNED
+		  vuejs. Vue.Js - 渐进式 JavaScript 框架 | Vue.Js. https://cn.vuejs.org/. Accessed 1 Nov. 2022.
+		  #+END_PINNED
+		- [[tr4c]]
 - **5** 数学
 	- *A*
 		- template:: tr5a
