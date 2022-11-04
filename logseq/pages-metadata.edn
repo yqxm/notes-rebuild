@@ -55,6 +55,9 @@
  {:block/name "nov 3rd, 2022",
   :block/created-at 1667441962290,
   :block/updated-at 1667441962290}
+ {:block/name "nov 4th, 2022",
+  :block/created-at 1667491204724,
+  :block/updated-at 1667491204724}
  {:block/name "now",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
@@ -64,6 +67,15 @@
  {:block/name "permanents",
   :block/created-at 1667283586784,
   :block/updated-at 1667283618804}
+ {:block/name "r10a1 --- problem: building a network",
+  :block/created-at 1667528088520,
+  :block/updated-at 1667529074219}
+ {:block/name "r10a1a --- applications",
+  :block/created-at 1667531328079,
+  :block/updated-at 1667538436976}
+ {:block/name "r10a1b --- requirements",
+  :block/created-at 1667538546358,
+  :block/updated-at 1667542812870}
  {:block/name "r1a1 --- 信息的表示和处理",
   :block/created-at 1666163014096,
   :block/updated-at 1666332705012}
@@ -112,6 +124,12 @@
  {:block/name "r1a1k --- c中的有符号数和无符号数",
   :block/created-at 1666937196149,
   :block/updated-at 1666939765342}
+ {:block/name "r1a1l --- 扩展和截断",
+  :block/created-at 1667490148510,
+  :block/updated-at 1667491140833}
+ {:block/name "r1a1m --- 关于有符号数和无符号数的建议",
+  :block/created-at 1667491709893,
+  :block/updated-at 1667492653540}
  {:block/name "r1a4 --- x86-64的字、双字和四字",
   :block/created-at 1666164595753,
   :block/updated-at 1666333155964}
@@ -189,7 +207,7 @@
   :block/updated-at 1666685177227}
  {:block/name "r3b5 --- 字符串",
   :block/created-at 1667442391155,
-  :block/updated-at 1667457865350}
+  :block/updated-at 1667489828749}
  {:block/name "r3b5a --- 字符串排序",
   :block/created-at 1667457892369,
   :block/updated-at 1667468422205}
@@ -259,15 +277,30 @@
  {:block/name "re1a1k1 --- 练习 2-21",
   :block/created-at 1666939765341,
   :block/updated-at 1666940246854}
+ {:block/name "re1a1l1 --- 练习 2-23",
+  :block/created-at 1667490664989,
+  :block/updated-at 1667490820663}
+ {:block/name "re1a1l2 --- 练习 2-24",
+  :block/created-at 1667491140833,
+  :block/updated-at 1667491569938}
+ {:block/name "re1a1m1 --- 练习 2-25",
+  :block/created-at 1667492512551,
+  :block/updated-at 1667492623734}
+ {:block/name "re1a1m2 --- 练习 2-26",
+  :block/created-at 1667492653540,
+  :block/updated-at 1667492717506}
  {:block/name "ref table",
   :block/created-at 1666243481767,
-  :block/updated-at 1667442158025}
+  :block/updated-at 1667527997493}
  {:block/name "todo",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
+ {:block/name "tr10a",
+  :block/created-at 1667527997492,
+  :block/updated-at 1667528062331}
  {:block/name "tr1a",
   :block/created-at 1666487815758,
-  :block/updated-at 1666922199839}
+  :block/updated-at 1667483281616}
  {:block/name "tr1a --- 信息的表示和处理",
   :block/created-at 1666921649707,
   :block/updated-at 1666936374676}

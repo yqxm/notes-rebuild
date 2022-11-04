@@ -102,5 +102,11 @@
 		  #+BEGIN_PINNED
 		  McConnell, S. (2006). 代码大全 (金戈, 汤凌, 陈硕, & 张菲, Trans.; 2nd ed.).
 		  #+END_PINNED
--
--
+- **10** 计算机网络
+	- *A*
+		- template:: tr10a
+		  #+BEGIN_PINNED
+		  Peterson, L. L., & Davie, B. S. (2022). Computer networks: a systems approach (6th ed.). Morgan Kaufmann.
+		  #+END_PINNED
+		- [[tr10a]]
+	-
