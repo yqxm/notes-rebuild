@@ -58,6 +58,12 @@
  {:block/name "nov 4th, 2022",
   :block/created-at 1667491204724,
   :block/updated-at 1667491204724}
+ {:block/name "nov 5th, 2022",
+  :block/created-at 1667578876298,
+  :block/updated-at 1667578876298}
+ {:block/name "nov 7th, 2022",
+  :block/created-at 1667786548204,
+  :block/updated-at 1667786548204}
  {:block/name "now",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
@@ -67,15 +73,27 @@
  {:block/name "permanents",
   :block/created-at 1667283586784,
   :block/updated-at 1667283618804}
- {:block/name "r10a1 --- problem: building a network",
-  :block/created-at 1667528088520,
-  :block/updated-at 1667529074219}
+ {:block/name "r10a1 --- foundation",
+  :block/created-at 1667786732870,
+  :block/updated-at 1667786870809}
  {:block/name "r10a1a --- applications",
   :block/created-at 1667531328079,
   :block/updated-at 1667538436976}
  {:block/name "r10a1b --- requirements",
   :block/created-at 1667538546358,
-  :block/updated-at 1667542812870}
+  :block/updated-at 1667801212031}
+ {:block/name "r10a1b1 --- stackholders",
+  :block/created-at 1667801034218,
+  :block/updated-at 1667801065586}
+ {:block/name "r10a1b2 --- scalable connectivity",
+  :block/created-at 1667801100864,
+  :block/updated-at 1667812482011}
+ {:block/name "r10a1b3 --- cost-effective resource sharing",
+  :block/created-at 1667801212031,
+  :block/updated-at 1667814813784}
+ {:block/name "r10a1p --- problem: building a network",
+  :block/created-at 1667528088520,
+  :block/updated-at 1667529074219}
  {:block/name "r1a1 --- 信息的表示和处理",
   :block/created-at 1666163014096,
   :block/updated-at 1666332705012}
@@ -231,7 +249,7 @@
   :block/updated-at 1666333802016}
  {:block/name "r4a7 --- c++ 类",
   :block/created-at 1666628077317,
-  :block/updated-at 1666665960607}
+  :block/updated-at 1667578938679}
  {:block/name "r4a7a --- c++ 定义抽象数据类型",
   :block/created-at 1666665585080,
   :block/updated-at 1666676175397}
