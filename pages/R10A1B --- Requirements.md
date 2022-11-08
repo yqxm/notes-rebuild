@@ -4,5 +4,6 @@
 - [[R10A1B1 --- Stackholders]]
 - [[R10A1B2 --- Scalable Connectivity]]
 - [[R10A1B3 --- Cost-Effective Resource Sharing]]
--
+- [[R10A1B4 --- Support for Common Service]]
+- [[R10A1B5 --- Manageability]]
 -
