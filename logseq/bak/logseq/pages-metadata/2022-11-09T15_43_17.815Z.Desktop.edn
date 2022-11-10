@@ -43,9 +43,6 @@
  {:block/name "f5 --- 位向量和信号",
   :block/created-at 1666840861843,
   :block/updated-at 1666840879188}
- {:block/name "f6 --- makefile的include",
-  :block/created-at 1668067320068,
-  :block/updated-at 1668067752779}
  {:block/name "favorites",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
@@ -55,9 +52,6 @@
  {:block/name "later",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
- {:block/name "nov 10th, 2022",
-  :block/created-at 1668009603096,
-  :block/updated-at 1668009603096}
  {:block/name "nov 3rd, 2022",
   :block/created-at 1667441962290,
   :block/updated-at 1667441962290}
@@ -73,9 +67,6 @@
  {:block/name "nov 8th, 2022",
   :block/created-at 1667836803069,
   :block/updated-at 1667836803069}
- {:block/name "nov 9th, 2022",
-  :block/created-at 1668007998037,
-  :block/updated-at 1668007998037}
  {:block/name "now",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
@@ -96,22 +87,22 @@
   :block/updated-at 1667900918956}
  {:block/name "r10a1b1 --- stackholders",
   :block/created-at 1667801034218,
-  :block/updated-at 1668043674495}
+  :block/updated-at 1667801065586}
  {:block/name "r10a1b2 --- scalable connectivity",
   :block/created-at 1667801100864,
-  :block/updated-at 1668043691575}
+  :block/updated-at 1667812482011}
  {:block/name "r10a1b3 --- cost-effective resource sharing",
   :block/created-at 1667801212031,
-  :block/updated-at 1668044022830}
+  :block/updated-at 1667838558759}
  {:block/name "r10a1b4 --- support for common service",
-  :block/created-at 1668007998376,
-  :block/updated-at 1668045826966}
+  :block/created-at 1667884128196,
+  :block/updated-at 1667900881989}
  {:block/name "r10a1b5 --- manageability",
-  :block/created-at 1668007998410,
-  :block/updated-at 1668047463863}
+  :block/created-at 1667900918956,
+  :block/updated-at 1667900918956}
  {:block/name "r10a1p --- problem: building a network",
   :block/created-at 1667528088520,
-  :block/updated-at 1668043367912}
+  :block/updated-at 1667529074219}
  {:block/name "r1a1 --- 信息的表示和处理",
   :block/created-at 1666163014096,
   :block/updated-at 1666332705012}
@@ -231,7 +222,7 @@
   :block/updated-at 1667284389307}
  {:block/name "r2b1b --- 80x86 computer organazation",
   :block/created-at 1666760310395,
-  :block/updated-at 1668072694052}
+  :block/updated-at 1666770295190}
  {:block/name "r3a2 --- 向量",
   :block/created-at 1666335486522,
   :block/updated-at 1666337779799}

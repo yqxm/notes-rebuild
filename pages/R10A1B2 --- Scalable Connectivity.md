@@ -1,7 +1,7 @@
 - #+BEGIN_PINNED
   Peterson, L. L., & Davie, B. S. (2022). Computer networks: a systems approach (6th ed.). Morgan Kaufmann.c1.2.2
   #+END_PINNED
-- 网络为一组计算机提供连接。连接这些计算机的物理媒介叫作*link*，比如有线的同轴电缆和光纤，无线的蜂窝网络和WIFI。这些计算机叫作*Node*，当然，其他的网络设备也可以叫作*Node*，比如智能家居设备。
+- 网络为一组计算机提供连接。连接这些计算机的物理媒介叫作*link*(链路)，比如有线的同轴电缆和光纤，无线的蜂窝网络和WIFI。这些计算机叫作*Node*，当然，其他的网络设备也可以叫作*Node*，比如智能家居设备。
 	- ![../_images/f01-02-9780123850591.png](https://book.systemsapproach.org/_images/f01-02-9780123850591.png){:height 289, :width 594}
 	- (a)直接相连的两个节点称为“point-to-point”
 	- (b)直接相连的多个节点称为“multiple-access”
