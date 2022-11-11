@@ -1,10 +1,24 @@
+- 计算机组成
+	- [[tr1a]] CSAPP
+- 指令集和汇编
+	- [[tr2a]] RISC-V Unpriviledged手册
+	- [[tr2b]] PC Assembly Language
+- 算法和数据结构
+	- [[tr3a]] 数据结构 邓俊辉
+	- [[tr3b]] 算法4
+- 编程语言
+	- [[tr4a]] C++ Primer
+	- [[tr4b]] Learning TypeScript
+	- [[tr4c]] Vue文档
+- 计算机网络
+	- [[tr10a]] 计算机网络: 系统方法
+-
 - **1** 计算机组成
 	- *A*
 		- template:: tr1a
 		  #+BEGIN_PINNED
 		  Bryant, Randal E., and David R. O’Hallaron. 深入理解计算机系统. Translated by 龚奕利 and 贺莲. Third Edition. Beijing: 机械工业出版社, 2016.
 		  #+END_PINNED
-		- [[tr1a]]
 -
 - **2** 指令集和汇编
 	- *A*

@@ -1,4 +1,7 @@
-- [[tr4a --- Function]]
-- [[tr4a --- Classes]]
-- [[tr4a --- Dynamic Memory]]
+- **Function**
+	- [[R4A6G --- C++ 函数指针]]
+- **Classes**
+	- [[R4A7 --- C++ 类]]
+- **Dynamic Memory**
+	- [[R4A12 --- C++ 动态内存]]
 -

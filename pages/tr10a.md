@@ -1,9 +1,7 @@
-- #+BEGIN_QUERY
-  {:title "CNASA"
-   :query [:find (pull ?p [*])
-           :where 
-           [?p :block/name ?name]
-           [(clojure.string/starts-with? ?name "r10a")]]
-  }
-  #+END_QUERY
+- **Foundation**
+	- [[R10A1 --- Foundation]]
+		- [[R10A1P --- Problem: Building a Network]]
+		- [[R10A1A --- Applications]]
+		- [[R10A1B --- Requirements]]
+-
 -

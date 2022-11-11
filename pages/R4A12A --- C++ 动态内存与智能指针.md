@@ -13,3 +13,5 @@
 			- 伴随类`weak_ptr`，指向`shared_ptr`所管理的对象。
 		- `unique_ptr`独占所指向的对象。
 -
+- [[R4A12A1 --- shared_ptr类]]
+-
