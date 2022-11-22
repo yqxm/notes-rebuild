@@ -58,6 +58,18 @@
  {:block/name "nov 11th, 2022",
   :block/created-at 1668133097182,
   :block/updated-at 1668133097182}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668404484637,
+  :block/updated-at 1668404484637}
+ {:block/name "nov 15th, 2022",
+  :block/created-at 1668502552326,
+  :block/updated-at 1668502552326}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668528002229,
+  :block/updated-at 1668528002229}
+ {:block/name "nov 17th, 2022",
+  :block/created-at 1668614402304,
+  :block/updated-at 1668614402304}
  {:block/name "now",
   :block/created-at 1666163174821,
   :block/updated-at 1666163174821}
@@ -96,7 +108,7 @@
   :block/updated-at 1668043367912}
  {:block/name "r1a1 --- 信息的表示和处理",
   :block/created-at 1666163014096,
-  :block/updated-at 1668130909191}
+  :block/updated-at 1668405397782}
  {:block/name "r1a1a --- 字节顺序",
   :block/created-at 1666163185638,
   :block/updated-at 1666836133559}
@@ -123,7 +135,7 @@
   :block/updated-at 1666934475523}
  {:block/name "r1a1f --- 整数运算",
   :block/created-at 1666163921803,
-  :block/updated-at 1666332998758}
+  :block/updated-at 1668139394943}
  {:block/name "r1a1g --- ieee浮点数编码",
   :block/created-at 1666164046248,
   :block/updated-at 1666333024412}
@@ -202,15 +214,9 @@
  {:block/name "r20002 --- instruction fetch unit",
   :block/created-at 1666250332145,
   :block/updated-at 1666333859473}
- {:block/name "r2a1 --- introduction",
-  :block/created-at 1666923045067,
-  :block/updated-at 1668134025888}
  {:block/name "r2a1a --- risc-v hardware platform terminology",
   :block/created-at 1666248273944,
   :block/updated-at 1666333725611}
- {:block/name "r2b1 --- introduction",
-  :block/created-at 1666923290528,
-  :block/updated-at 1668134100936}
  {:block/name "r2b1a --- number systems",
   :block/created-at 1666750364676,
   :block/updated-at 1667284389307}
@@ -277,6 +283,9 @@
  {:block/name "re1a1d1 --- 练习 2-19",
   :block/created-at 1666934475522,
   :block/updated-at 1666934879822}
+ {:block/name "re1a1f1 --- 练习 2-27",
+  :block/created-at 1668139122324,
+  :block/updated-at 1668139846134}
  {:block/name "re1a1j1 --- 练习 2-10",
   :block/created-at 1666854750369,
   :block/updated-at 1666920224036}
@@ -327,10 +336,10 @@
   :block/updated-at 1668133190614}
  {:block/name "tr2a",
   :block/created-at 1666922659913,
-  :block/updated-at 1666923045068}
+  :block/updated-at 1668135707598}
  {:block/name "tr2b",
   :block/created-at 1666922651024,
-  :block/updated-at 1666923290528}
+  :block/updated-at 1668135771286}
  {:block/name "tr3a",
   :block/created-at 1667442149582,
   :block/updated-at 1668134164669}

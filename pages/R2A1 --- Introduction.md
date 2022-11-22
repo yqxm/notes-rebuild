@@ -1,2 +1,0 @@
-- [[R2A1A --- RISC-V hardware platform terminology]]
--

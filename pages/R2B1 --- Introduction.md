@@ -1,3 +1,0 @@
-- [[R2B1A --- Number Systems]]
-- [[R2B1B --- 80x86 Computer Organazation]]
--

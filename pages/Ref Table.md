@@ -10,6 +10,8 @@
 	- [[tr4a]] C++ Primer
 	- [[tr4b]] Learning TypeScript
 	- [[tr4c]] Vue文档
+	- [[tr4d]] C语言程序设计: 现代方法
+	- [[tr4e]] The GNU C reference manual
 - 计算机网络
 	- [[tr10a]] 计算机网络: 系统方法
 -
@@ -66,6 +68,18 @@
 		  vuejs. Vue.Js - 渐进式 JavaScript 框架 | Vue.Js. https://cn.vuejs.org/. Accessed 1 Nov. 2022.
 		  #+END_PINNED
 		- [[tr4c]]
+	- *D*
+		- template:: tr4d
+		  #+BEGIN_PINNED
+		  King, K. N., 吕秀锋, & 黄倩. (2021). C语言程序设计: 现代方法 (2nd ed.). 人民邮电出版社.
+		  #+END_PINNED
+		- [[tr4d]]
+	- *E*
+		- template:: tr4e
+		  #+BEGIN_PINNED
+		  Rothwell, T., & Youngman, J. (2016). The GNU C Reference Manual (0.2.5). Free Software Foundation, Inc.
+		  #+END_PINNED
+		- [[tr4e]]
 - **5** 数学
 	- *A*
 		- template:: tr5a
