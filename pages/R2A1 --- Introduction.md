@@ -1,0 +1,27 @@
+- #+BEGIN_PINNED
+  Waterman, A., & Asanović, K. (2019). The RISC-V Instruction Set Manual: Vol. Unprivileged ISA (v20191213 ed.).p2-3
+  #+END_PINNED
+- ## RISC-V Hardware Platform Terminology
+	- A RISC-V hardware platform can contain one or more RISC-V-compatible processing cores toghether with:
+		- Other non-RISC-V-compatible cores
+		- Fixed-function accelerators
+		- various physical memory structures
+		- I/O devices
+		- An interconnect structure to allow the components to communicate
+	- **core**: A component is termed a *core* if it contains an independent instruction fetch unit.[[R20002 --- Instruction Fetch unit]]
+	- **hart**: Hardware threads. A RISC-V compatible core might support multiple harts thourgh multithreading.
+	- **coprocessor**: A unit that is attached to a RISC-V core and is mostly sequenced by a RISC-V instruction stream, but which contains additional architectural state and instruction-set extensions, and possibly some limited autonomy relative to the primary RISC-V instruction stream.
+	- **accelerator**: A non-programmable fixed-function unit or a core that can operate autonomously but is specialized for certain tasks.
+- ## RISC-V Software Execution Environments and Harts
+	- The behavior of a RISC-V program depends on the execution environment in which it runs. A RISC-V execution environment interface defines:
+		- the initial state of the program
+		- the number and type of harts in the environment including the privilege modes supported by the harts
+		- the accessibility and attributes of memory and I/O regions
+		- the behavior of all instruction executed on each hart
+		- the handling of every exception and interrups raised during execution including envirionment calls.
+	- The implementation of a RISC-V execution environment can be pure hardware, pure software, or a combination of hardware and software. Some functionality not provided by hardware can be implement by software.
+		- *Example of execution environment implementation*
+			- **"Bare metal" hardware platform**
+				- "Bare metal" hardware platforms where harts are directly implemented by physical processor threads and instructions have full access to the physical address space.
+					- The hardware platform defines an execution environment that begins at power-on reset.[[R20003 --- Power-on reset]]
+-

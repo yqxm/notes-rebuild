@@ -9,11 +9,19 @@
 - 编程语言
 	- [[tr4a]] C++ Primer
 	- [[tr4b]] Learning TypeScript
-	- [[tr4c]] Vue文档
+	- [[tr4c]] Vue3文档
 	- [[tr4d]] C语言程序设计: 现代方法
 	- [[tr4e]] The GNU C reference manual
+- 操作系统
+	- [[tr8a]] xv6
+	- [[tr8b]] ostep
+	- [[tr8c]] apue 3rd
 - 计算机网络
 	- [[tr10a]] 计算机网络: 系统方法
+- 工具
+	- [[tr11a]] gcc 11.3.0 manual
+	- [[tr11b]] gnu as 2.3.9 manual
+	- [[tr11c]] gdb 12.1 manual
 -
 - **1** 计算机组成
 	- *A*
@@ -21,42 +29,34 @@
 		  #+BEGIN_PINNED
 		  Bryant, Randal E., and David R. O’Hallaron. 深入理解计算机系统. Translated by 龚奕利 and 贺莲. Third Edition. Beijing: 机械工业出版社, 2016.
 		  #+END_PINNED
--
 - **2** 指令集和汇编
 	- *A*
 		- template:: tr2a
 		  #+BEGIN_PINNED
 		  Waterman, A., & Asanović, K. (2019). The RISC-V Instruction Set Manual: Vol. Unprivileged ISA (v20191213 ed.).
 		  #+END_PINNED
-		- [[tr2a]]
 	- *B*
 		- template:: tr2b
 		  #+BEGIN_PINNED
 		  Carter, P. A. (2003). PC Assembly Language. Self-published.
 		  #+END_PINNED
-		- [[tr2b]]
-	-
 - **3** 算法和数据结构
 	- *A*
 		- template:: tr3a
 		  #+BEGIN_PINNED
 		  邓俊辉. (2013). 数据结构: C++语言版 (3rd ed.). 清华大学出版社.
 		  #+END_PINNED
-		- [[tr3a]]
 	- *B*
 		- template:: tr3b
 		  #+BEGIN_PINNED
 		  Sedgewick, R., & Wayne, K. (2012). 算法 (谢路云, Trans.; 4th ed.). 人民邮电出版社.
 		  #+END_PINNED
-		- [[tr3b]]
 - **4** 编程语言
 	- *A*
 		- template:: tr4a
 		  #+BEGIN_PINNED
 		  Lippman, S. B., Lajoie, J., & Moo, B. E. (2013). C++ Primer 中文版 (王刚 & 杨巨峰, Trans.; 5th ed.). 电子工业出版社.
 		  #+END_PINNED
-		- [[tr4a]]
-		-
 	- *B*
 		- template:: tr4b
 		  #+BEGIN_PINNED
@@ -65,21 +65,18 @@
 	- *C*
 		- template:: tr4c
 		  #+BEGIN_PINNED
-		  vuejs. Vue.Js - 渐进式 JavaScript 框架 | Vue.Js. https://cn.vuejs.org/. Accessed 1 Nov. 2022.
+		  vuejs. Vue.Js - 渐进式 JavaScript 框架 | Vue.Js. https://cn.vuejs.org/.
 		  #+END_PINNED
-		- [[tr4c]]
 	- *D*
 		- template:: tr4d
 		  #+BEGIN_PINNED
 		  King, K. N., 吕秀锋, & 黄倩. (2021). C语言程序设计: 现代方法 (2nd ed.). 人民邮电出版社.
 		  #+END_PINNED
-		- [[tr4d]]
 	- *E*
 		- template:: tr4e
 		  #+BEGIN_PINNED
 		  Rothwell, T., & Youngman, J. (2016). The GNU C Reference Manual (0.2.5). Free Software Foundation, Inc.
 		  #+END_PINNED
-		- [[tr4e]]
 - **5** 数学
 	- *A*
 		- template:: tr5a
@@ -119,6 +116,11 @@
 		  #+BEGIN_PINNED
 		  Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau, & Reiher, P. (2020). Operating systems: three easy pieces (v1.01). Arpaci-Dusseau Books, LLC.
 		  #+END_PINNED
+	- *C*
+		- template:: tr8c
+		  #+BEGIN_PINNED
+		  Stevens, W. R., & Rago, S. A. (2013). Advanced programming in the UNIX environment (3rd ed.).Addison-Wesley.
+		  #+END_PINNED
 - **9** 软件工程
 	- *A*
 		- template:: tr9a
@@ -136,5 +138,19 @@
 		  #+BEGIN_PINNED
 		  Peterson, L. L., & Davie, B. S. (2022). Computer networks: a systems approach (6th ed.). Morgan Kaufmann.
 		  #+END_PINNED
-		- [[tr10a]]
-	-
+- **11** 工具
+	- *A*
+		- template:: tr11a
+		  #+BEGIN_PINNED
+		  Stallman, R. M., & the GCC Developer Community. (2022). Using the GNU Compiler Collection: For GCC version 11.3.0. GNU Press.
+		  #+END_PINNED
+	- *B*
+		- template:: tr11b
+		  #+BEGIN_PINNED
+		  Elsner, D., Fenlason, J., & friends. (2022). Using as: The GNU Assembler (v2.3.9). GNU Press.
+		  #+END_PINNED
+	- *C*
+		- template:: tr11c
+		  #+BEGIN_PINNED
+		  Stallman, R. M., & the GCC Developer Community. (2022). Debugging with GDB: For GDB version 12.1 (10th ed.). GNU Press.
+		  #+END_PINNED

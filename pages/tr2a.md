@@ -1,3 +1,3 @@
 - **Introduction**
-	- [[R2A1A --- RISC-V hardware platform terminology]]
+	- [[R2A1 --- Introduction]]
 -
