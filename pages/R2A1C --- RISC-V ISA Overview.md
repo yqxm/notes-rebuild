@@ -1,0 +1,26 @@
+- #+BEGIN_PINNED
+  Waterman, A., & Asanović, K. (2019). The RISC-V Instruction Set Manual: Vol. Unprivileged ISA (v20191213 ed.). c1.3
+  #+END_PINNED
+- A RISC-V ISA is defined as a base integer ISA, which must be present in any implementation, plus optional extensions to the base ISA.
+- ## Four base ISAs
+	- RISC-V is a family of related ISAs, of which there are currently four base ISAs. Each base integer instruction set is characterized by the width of the integer registers and the corresponding size of the address space and by the number of integer registers.
+		- Two primary base integer variants, **RV32I** and **RV64I**.
+		- The **RV32E** subset variant of the RV32I, which has been added to support small microcontrollers, and which has half the number of integer registers.
+		- The future **RV128I** variant of the base integer instruction set supporting a flat 128-bit address space.
+- ## Three Categories
+	- RISC-V has been designed to support extensive customization and specialization. Each base integer ISA can be extended with one or more optional instruction-set extensions.
+		- For this purpose, RISC-V instruction-set encoding space are divided into three disjoint categories: **standard**, **reserved**, and **custom**.
+			- Standard extensions and encodings are defined by RISC-V International, any extensions not defined by RISC-V International are *non-standard*.
+				- Each base ISA and its standard extensions use only standard encodings.
+			- Reserved encodings are currently not defined but are saved for future standard extensions; once thus used, they become standard encodings.
+			- Custom encodings shall never be used for standard extensions and are made available for vendor-specific non-standard extensions.
+				- Non-standard extensions are either custom extensions, that use only custom encodings, or **non-conforming** extensions, that use any standard or reserved encoding.
+- ## Standard extensions
+	- The base integer ISA is named **"I"**, and contains integer computational instructions, integer loads, integer stores, and control flow instructions.
+	- The standard integer multiplication and division extension is named **"M"**, and adds instructions to multiply and divide values held in the integer registers.
+	- The standard atomic instruction extension, denoted by **"A"**, adds instructions that atomically read, modify, and write memory for inter-processor synchronization.
+	- The standard single-precision floating-point extension, denoted by **"F"**, adds floating-point registers, single-precision computational instructions, and single-precision loads and stores.
+	- The standard double-precision floating-point extension, denoted by **"D"**, expands the floating-point registers, and adds double-precision computational instructions, loads, and stores.
+	- The standard **"C"** compressed instruction extension provides narrower 16-bit forms of common instructions.
+-
+-

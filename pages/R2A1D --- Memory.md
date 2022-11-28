@@ -1,0 +1,32 @@
+- #+BEGIN_PINNED
+  Waterman, A., & Asanović, K. (2019). The RISC-V Instruction Set Manual: Vol. Unprivileged ISA (v20191213 ed.). c1.4
+  #+END_PINNED
+- A RISC-V hart has a single byte-addressable address space of $2^{\text{XLEN}}$ for all memory access. The memory address space is circular.
+	- **word**: 32 bits
+	- **halfword**: 16 bits
+	- **doubleword**: 64 bits
+	- **quadword**: 128 bits
+- The execution environment determines the mapping of hardware resources into a hart's address space. Different address ranges of a hart's address space may be **vacant**, or **contain main memory** or **contain one or more I/O devices**.
+- When a RISC-V platform has multiple harts, the address spaces of any two harts may be **entirely the same**, or **entirely different**, or may be **partly different but sharing some subset of resources**, mapped into the same or different address ranges.
+- ## Memory accesses
+	- Executing each RISC-V machine instruction entails one or more memory accesses, subdivided into *implicit* and *explicit* accesses.
+		- For each instruction executed, an *implicit* memory read (instruction fetch) is done to obtain the encoded instruction to execute.
+		- Specific load and store instructions perform an *explicit* read or write of memory at an address determined by the instruction.
+	- The execution environment determines what portions of the non-vacant address space are accessible for each kind of memory access. For example,
+		- the set of locations that can be implicitly read for instruction fetch may or may not have any overlap with the set of locations that can be explicitly read by a load instruction.
+		- the set of locations that can be explicitly written by a store instruction may be only a subset of locations that can be read.
+	- Except when specified otherwise, implicit reads that do not raise an exception may occur arbitrarily early and speculatively, even before the machine could possibly prove that the read will be needed.
+	- To ensure that certain implicit reads are ordered only after writes to the same memory locations, software must execute specific **fence** or **cache-control** instructions defined for this purpose.
+- ## Memory consistency model
+	- The memory accesses (implicit or explicit) made by a hart may appear to occur in a different order as perceived by another hart or by any other agent that can access the same memory.
+	- This perceived reordering of memory accesses is always constrained, however, by the **applicable memory consistency model**.
+		- The default memory consistency model for RISC-V is the **RISC-V Weak Memory Ordering(RVWMO)**
+	- The execution environment may also add constrains that further limit the perceived reordering of memory.
+	- Software written for RVWMO model is compatible with the actual memory consistency rules of all RISC-V implementations, cause it is the weakest model allowed for any RISC-V implementation.
+	-
+		-
+		-
+		-
+-
+-
+-

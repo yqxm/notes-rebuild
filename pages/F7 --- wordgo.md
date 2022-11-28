@@ -1,0 +1,3 @@
+- lemmatization
+	- https://github.com/michmech/lemmatization-lists
+-
