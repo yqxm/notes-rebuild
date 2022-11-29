@@ -1,3 +1,7 @@
+- **Variables and Basic Types**
+	- [[R4A2A --- 基本内置类型]]
+	- [[R4A2B --- 变量]]
+	-
 - **Function**
 	- [[R4A6G --- C++ 函数指针]]
 - **Classes**
