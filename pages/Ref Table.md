@@ -12,6 +12,9 @@
 	- [[tr4c]] Vue3文档
 	- [[tr4d]] C语言程序设计: 现代方法
 	- [[tr4e]] The GNU C reference manual
+- 数据库
+	- [[tr6a]] 数据库系统全书，2nd
+	- [[tr7a]] 数据库系统概念，7th
 - 操作系统
 	- [[tr8a]] xv6
 	- [[tr8b]] ostep

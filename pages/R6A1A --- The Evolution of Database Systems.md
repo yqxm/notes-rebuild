@@ -1,0 +1,43 @@
+- #+BEGIN_PINNED
+  Garcia-Molina, H., Ullman, J. D., & Widom, J. (2014). Database systems: the complete book (2nd ed.). Pearson. c1.1
+  #+END_PINNED
+- The DBMS is expected to:
+	- 1. Allow users to create new databases and specify their ==*schemas*==(logical structure of the data), using a specialized ==*data-definition language*==.
+	- 2. Give users the ability to ==*query*== the data and modify the data, using an appropriate language, often called a ==*query language*== or ==*data-manipulation language*==
+	- 3. Support the storage of very large amounts of data over a long period of time, allowing efficient access to the data for queries and data modifications.
+	- 4. Enable ==*durability*==, the recovery of the database in the face of failures, errors of many kinds, or intentional misuse.
+	- 5. Control access to data from many users at once, without allowing unexpected interactions among users(called ==*isolation*==) and without actions on the data to be performed partially but not completely (called ==*atomicity*==)
+- ## Early Database Management Systems
+	- ### DBMS evolved from file systems
+		- These systems support some of item(3) above:
+			- They can store data over a long period of time, but do not generally guarantee that data cannot be lost if it is not backed up.
+			- They allow the storage of large amount of data, but do not support efficient access to data items whose location in a particular file is not known.
+		- They do not directly support item(2), a query language for the data in files.
+		- Their support for (1) -- a schema for the data -- is limited to the directory structures for files.
+		- Item (4) is not always supported by them, you can lose data that has not been backed up.
+		- They do not satisfy (5).
+			- A file system generally will not prevent situations such as two users modifying the same file at about the same time, so the changes made by one user fail to appear in the file.
+	- ### DBMS's  first important applications
+		- Banking systems
+		- Airline reservation systems
+		- Corporate record keeping
+	- ### Early DBMS's data model
+		- The early DBMS's required the programmer to visualize data much as it was stored. So they used data models for describing the structure of the information in a database, chief among them
+			- the "hierarchical" or tree-based model
+			- the graph-based "network" model
+		- The problem of these early models was that they did not support high-level query languages.
+- ## Relational Database Systems
+	- In 1970, A paper written by Ted Codd proposed that database systems should present the user with a view of data organized as tables called ==*relations*==. Behind this there is a complex data structure that allowed for rapid response to a variety of queries.
+		- The programmer of a relational system would not be concerned with the storage structure.
+		- Queries could be expressed in a very high-level language.
+- ## Smaller and Smaller Systems
+	- Originally, to store a gigabyte of data required a large computer system. But with the advancement of computer technology, Database systems based on relational model have become available for even very small machines. And they become a common tool for computer applications.
+- ## Bigger and Bigger Systems
+	- A gigabyte is not that much data anymore. Corporate databases routinely store terabytes. Yet There are many databases store petabytes of data.
+- ## Information Integration
+	- To a great extent, the old problem of building and maintaining databases has become one of ==*information integration*==: joining the information contained in many related databases into a whole.
+	- To deal with the complexity of information integration,  it has become necessary with increasing frequency to build structures on top of existing databases.
+		- One popular approach is the creation of ==*data warehouse*==, where information from many legacy databases is copied periodically, with the appropriate translation, to a central database.
+		- Another approach is the implementation of a mediator, or "middleware", whose function is to support an integrated model of the data of the various databases, while translating between this model and the actual models used by each database.
+	-
+	-
