@@ -1,7 +1,7 @@
 - 计算机组成
 	- [[tr1a]] CSAPP
 - 指令集和汇编
-	- [[tr2a]] RISC-V Unpriviledged手册
+	- [[tr2a]] RISC-V Unprivileged手册
 	- [[tr2b]] PC Assembly Language
 - 算法和数据结构
 	- [[tr3a]] 数据结构 邓俊辉
@@ -21,10 +21,12 @@
 	- [[tr8c]] apue 3rd
 - 计算机网络
 	- [[tr10a]] 计算机网络: 系统方法
-- 工具
+- Documentation
 	- [[tr11a]] gcc 11.3.0 manual
 	- [[tr11b]] gnu as 2.3.9 manual
 	- [[tr11c]] gdb 12.1 manual
+	- [[tr11d]] nasm 2.15.05 documentation
+	- [[tr11e]] ELF specification
 -
 - **1** 计算机组成
 	- *A*
@@ -157,3 +159,14 @@
 		  #+BEGIN_PINNED
 		  Stallman, R. M., & the GCC Developer Community. (2022). Debugging with GDB: For GDB version 12.1 (10th ed.). GNU Press.
 		  #+END_PINNED
+	- *D*
+		- template:: tr11d
+		  #+BEGIN_PINNED
+		  The NASM Development Team. (2020). NASM – The Netwide Assembler (v2.15.05).
+		  #+END_PINNED
+	- *E*
+		- template:: tr11e
+		  #+BEGIN_PINNED
+		  TIS Committee. (1995). Tool Interface Standard (TIS) Executable and Linking Format (ELF) Specification (v1.2)
+		  #+END_PINNED
+-

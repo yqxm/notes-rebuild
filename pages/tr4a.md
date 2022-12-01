@@ -1,6 +1,8 @@
 - **Variables and Basic Types**
 	- [[R4A2A --- 基本内置类型]]
 	- [[R4A2B --- 变量]]
+	- [[R4A2C --- 复合类型]]
+	- [[R4A2D --- const限定符]]
 	-
 - **Function**
 	- [[R4A6G --- C++ 函数指针]]

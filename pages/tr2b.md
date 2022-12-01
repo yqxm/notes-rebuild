@@ -1,6 +1,6 @@
 - **Introduction**
 	- [[R2B1A --- Number Systems]]
-	- [[R2B1B --- 80x86 Computer Organazation]]
+	- [[R2B1B --- 80x86 Computer Organization]]
 	- [[R2B1C --- Assembly Language]]
 	- [[R2B1D --- Creating a Program]]
 -
