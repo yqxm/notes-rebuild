@@ -7,4 +7,6 @@
 	- [[R4E1F --- White Space]]
 - **Data Types**
 	- [[R4E2A --- Primitive Types]]
+	- [[R4E2B --- Enumerations]]
+	-
 	-

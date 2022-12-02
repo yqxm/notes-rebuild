@@ -1,6 +1,8 @@
 - #+BEGIN_PINNED
   Garcia-Molina, H., Ullman, J. D., & Widom, J. (2014). Database systems: the complete book (2nd ed.). Pearson. c1.1
   #+END_PINNED
+- Keywords: ==DBMS's Job==  ==DBMS Evolved From File Systems== ==Information Integration== ==Relational==
+-
 - The DBMS is expected to:
 	- 1. Allow users to create new databases and specify their ==*schemas*==(logical structure of the data), using a specialized ==*data-definition language*==.
 	- 2. Give users the ability to ==*query*== the data and modify the data, using an appropriate language, often called a ==*query language*== or ==*data-manipulation language*==
@@ -39,5 +41,4 @@
 	- To deal with the complexity of information integration,  it has become necessary with increasing frequency to build structures on top of existing databases.
 		- One popular approach is the creation of ==*data warehouse*==, where information from many legacy databases is copied periodically, with the appropriate translation, to a central database.
 		- Another approach is the implementation of a mediator, or "middleware", whose function is to support an integrated model of the data of the various databases, while translating between this model and the actual models used by each database.
-	-
-	-
+-

@@ -1,6 +1,9 @@
 - #+BEGIN_PINNED
   Rothwell, T., & Youngman, J. (2016). The GNU C Reference Manual (0.2.5). Free Software Foundation, Inc. c1.3
   #+END_PINNED
+- #+BEGIN_IMPORTANT
+  这里的常量应该是指字面量
+  #+END_IMPORTANT
 - **常量**
 	- 常量是指一个字面上的数字或者字符，比如4或者'm'。所有常量都有一个具体的数据类型，可以通过类型转换来指定常量的类型，或是让编译器根据常量的值使用默认类型。
 - **整型常量**

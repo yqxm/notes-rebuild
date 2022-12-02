@@ -3,4 +3,9 @@
 	- [[R6A1B --- Overview of a Database Management System]]
 - **The Relational Model of Data**
 	- [[R6A2A --- An Overview of Data Models]]
+	- [[R6A2B --- Basics of the Relational Model]]
+	- [[R6A2C --- Defining a Relation Scheme in SQL]]
+	- [[R6A2D --- An Algebraic Query Language]]
+	-
+	-
 	-

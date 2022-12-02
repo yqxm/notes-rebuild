@@ -1,6 +1,8 @@
 - #+BEGIN_PINNED
   Garcia-Molina, H., Ullman, J. D., & Widom, J. (2014). Database systems: the complete book (2nd ed.). Pearson. c1.2
   #+END_PINNED
+- Keywords: ==DBMS's Components== ==DDL== ==Query Processing== ==Transaction Processing==
+-
 - ## Database management system components
 	- ![image.png](../assets/image_1669776872902_0.png){:height 653, :width 492}
 		- **Single boxes** represent system components
@@ -61,6 +63,11 @@
 		- ### _Deadlock resolution_
 			- As transaction compete for resources through the locks that the scheduler grants, they can get into a situation where none can proceed because each needs something another transaction has.
 			- The transaction manager has the responsibility to intervene and cancel one or more transactions to let others proceed.
+	- ### The ACID Properties of Transactions
+		- "A", stands for "atomicity", the all-or-nothing execution of transactions.
+		- "C", stands for "consistency", all databases have consistency constraints, or expectations about relationships among data elements. Transactions are expected to preserve the consistency of the database.
+		- "I", stands for "isolation", the fact that each transaction must appear to be executed as if no other transacation is executing at the same time.
+		- "D", stands for "durability", the condition that the effect on the database of a transaction must never be lost, once the transaction has completed.
 - ## The Query Processor
 	- The query processor is represented by two compnents:
 		- ### _The Query Compiler_
