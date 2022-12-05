@@ -4,11 +4,11 @@
 - Keywords: ==DBMS's Job==  ==DBMS Evolved From File Systems== ==Information Integration== ==Relational==
 -
 - The DBMS is expected to:
-	- 1. Allow users to create new databases and specify their ==*schemas*==(logical structure of the data), using a specialized ==*data-definition language*==.
-	- 2. Give users the ability to ==*query*== the data and modify the data, using an appropriate language, often called a ==*query language*== or ==*data-manipulation language*==
+	- 1. Allow users to create new databases and specify their *schemas*(logical structure of the data), using a specialized *data-definition language*.
+	- 2. Give users the ability to *query* the data and modify the data, using an appropriate language, often called a *query language* or *data-manipulation language*
 	- 3. Support the storage of very large amounts of data over a long period of time, allowing efficient access to the data for queries and data modifications.
-	- 4. Enable ==*durability*==, the recovery of the database in the face of failures, errors of many kinds, or intentional misuse.
-	- 5. Control access to data from many users at once, without allowing unexpected interactions among users(called ==*isolation*==) and without actions on the data to be performed partially but not completely (called ==*atomicity*==)
+	- 4. Enable *durability*, the recovery of the database in the face of failures, errors of many kinds, or intentional misuse.
+	- 5. Control access to data from many users at once, without allowing unexpected interactions among users(called *isolation*) and without actions on the data to be performed partially but not completely (called *atomicity*)
 - ## Early Database Management Systems
 	- ### DBMS evolved from file systems
 		- These systems support some of item(3) above:
@@ -29,7 +29,7 @@
 			- the graph-based "network" model
 		- The problem of these early models was that they did not support high-level query languages.
 - ## Relational Database Systems
-	- In 1970, A paper written by Ted Codd proposed that database systems should present the user with a view of data organized as tables called ==*relations*==. Behind this there is a complex data structure that allowed for rapid response to a variety of queries.
+	- In 1970, A paper written by Ted Codd proposed that database systems should present the user with a view of data organized as tables called *relations*. Behind this there is a complex data structure that allowed for rapid response to a variety of queries.
 		- The programmer of a relational system would not be concerned with the storage structure.
 		- Queries could be expressed in a very high-level language.
 - ## Smaller and Smaller Systems
@@ -37,8 +37,8 @@
 - ## Bigger and Bigger Systems
 	- A gigabyte is not that much data anymore. Corporate databases routinely store terabytes. Yet There are many databases store petabytes of data.
 - ## Information Integration
-	- To a great extent, the old problem of building and maintaining databases has become one of ==*information integration*==: joining the information contained in many related databases into a whole.
+	- To a great extent, the old problem of building and maintaining databases has become one of *information integration*: joining the information contained in many related databases into a whole.
 	- To deal with the complexity of information integration,  it has become necessary with increasing frequency to build structures on top of existing databases.
-		- One popular approach is the creation of ==*data warehouse*==, where information from many legacy databases is copied periodically, with the appropriate translation, to a central database.
+		- One popular approach is the creation of *data warehouse*, where information from many legacy databases is copied periodically, with the appropriate translation, to a central database.
 		- Another approach is the implementation of a mediator, or "middleware", whose function is to support an integrated model of the data of the various databases, while translating between this model and the actual models used by each database.
 -

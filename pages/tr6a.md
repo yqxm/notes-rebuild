@@ -6,6 +6,7 @@
 	- [[R6A2B --- Basics of the Relational Model]]
 	- [[R6A2C --- Defining a Relation Scheme in SQL]]
 	- [[R6A2D --- An Algebraic Query Language]]
+	- [[R6A2E --- Constraints on Relations]]
 	-
 	-
 	-

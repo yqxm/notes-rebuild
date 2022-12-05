@@ -5,7 +5,8 @@
 	- [[tr2b]] PC Assembly Language
 - 算法和数据结构
 	- [[tr3a]] 数据结构 邓俊辉
-	- [[tr3b]] 算法4
+	- [[tr3b]] 算法 第4版
+	- [[tr3c]] 算法导论
 - 编程语言
 	- [[tr4a]] C++ Primer
 	- [[tr4b]] Learning TypeScript
@@ -55,6 +56,11 @@
 		- template:: tr3b
 		  #+BEGIN_PINNED
 		  Sedgewick, R., & Wayne, K. (2012). 算法 (谢路云, Trans.; 4th ed.). 人民邮电出版社.
+		  #+END_PINNED
+	- *C*
+		- template:: tr3c
+		  #+BEGIN_PINNED
+		  Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). Introduction to algorithms (4th ed.). The MIT Press.
 		  #+END_PINNED
 - **4** 编程语言
 	- *A*
