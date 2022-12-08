@@ -74,5 +74,6 @@
 		- $$R.A_1 = S.A_1 \text{ AND } R.A_2 = S.A_2 \text{ AND } \cdots \text{ AND } R.A_n = S.A_n$$
 		- Let $L$ be the list of attributes in the schema of $R$ followed by those attributes in the schema of $S$ that are not alse in the schema of $R$. Then
 		- $$R \Join S = \pi_L(\sigma_C(R \times S))$$
-		-
+- ## Exercises for Section 4
+	- [[RE6A2D1 --- Exercises 4-1 ~ 4-2]]
 -
