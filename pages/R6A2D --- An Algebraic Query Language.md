@@ -10,7 +10,7 @@
 		- 1. Ease of programming
 		- 2. The ability of the compiler to produce highly optimized code.
 - ## What is an Algebra?
-	- An algebra, conssits of operators and atomic operands.
+	- An algebra, consits of operators and atomic operands.
 		- The atomic operands are variables like $x$ and constants like 15
 		- The operators are the usual arithmetic ones: addtion, subtraction, multiplication, and division.
 	- Relational algebra is another example of an algebra. Its atomic operands are:

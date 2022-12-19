@@ -39,4 +39,15 @@
 	- **_Program_**
 		- A *program* is an executable file residing on disk in a directory.
 	- **_Processes and Process ID_**
-		-
+		- An executing instance of a program is called a *process*.
+		- The UNIX System guarantees that every process has a unique numeric identifier called the *process* ID.
+	- **_Process Control_**
+		- There are three primary functions for process control: `fork`,`exec`, and `waitpid`.
+	- **_Threads and Thread IDs_**
+		- Usually, a process has only one thread of control -- one set of machine instructions executing at a time.
+		- All thread within a process share the same address space, file descriptors, stacks, and process-related attributes.
+		- Each thread executes on its own stack, although any thread can access the stacks of other threads in the same process.
+		- Threads are identified by IDs. Thread IDs are local to a process.
+- ## Error Handling
+	- When an error occurs in one of the UNIX System functions, a negative value is often returned, and the integer `errno` is usually set to a value that tells why.
+	- The file `<errno.h>` defines the symbol `errno` and constants for each value that `errno` can assume.

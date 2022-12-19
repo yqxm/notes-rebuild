@@ -35,19 +35,16 @@
 		- $\text{LAM} := \pi_{maker}(\sigma_{speed \geq 2.80 \text{ And } type = 'laptop'} (\text{PJP} \cup \text{PJL}))$
 		- $\text{Answer} := \text{PCM} \cap \text{LAM}$
 	- i) Find the manufacturer(s) of the computer (PC or laptop) with the highest available speed.
-		- $\text{PCS}(speed) := \pi_{speed}(\text{Product})$
+		- $\text{PCS}(speed) := \pi_{speed}(\text{PC})$
 		- $\text{LAS}(speed) := \pi_{speed}(\text{Laptop})$
 		- $\text{SP} := \text{PCS} \cup \text{LAS}$
 		- $A := \text{SP}$
 		- $B := \text{SP}$
 		- $C := \rho_{C(speed)}(\pi_{B.speed}(A \Join_{A.speed > B.speed} B))$
 		- $\text{Max} := A - C$
-		-
-		-
-		-
-		-
-		-
-		-
+		- $\text{MS} := \pi_{maker,speed}((\text{Product} \Join \text{PC}) \cup (\text{Product} \Join \text{Laptop}))$
+		- $\text{Answer} := \pi_{maker} (\text{MS} \Join_{MS.speed = Max.speed} \text{Max})$
+	- j) Find the manufacturers of PC’s with at least three diﬀerent speeds.
 		-
 		-
 		-
