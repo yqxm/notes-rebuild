@@ -23,4 +23,3 @@
 	- The standard double-precision floating-point extension, denoted by **"D"**, expands the floating-point registers, and adds double-precision computational instructions, loads, and stores.
 	- The standard **"C"** compressed instruction extension provides narrower 16-bit forms of common instructions.
 -
--

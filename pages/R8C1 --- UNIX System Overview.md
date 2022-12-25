@@ -51,3 +51,4 @@
 - ## Error Handling
 	- When an error occurs in one of the UNIX System functions, a negative value is often returned, and the integer `errno` is usually set to a value that tells why.
 	- The file `<errno.h>` defines the symbol `errno` and constants for each value that `errno` can assume.
+-

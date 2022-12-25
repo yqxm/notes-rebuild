@@ -13,6 +13,7 @@
 	- [[tr4c]] Vue3文档
 	- [[tr4d]] C语言程序设计: 现代方法
 	- [[tr4e]] The GNU C reference manual
+	- [[tr4f]] Learning Go
 - 数据库
 	- [[tr6a]] 数据库系统全书，2nd
 	- [[tr7a]] 数据库系统概念，7th
@@ -87,6 +88,11 @@
 		- template:: tr4e
 		  #+BEGIN_PINNED
 		  Rothwell, T., & Youngman, J. (2016). The GNU C Reference Manual (0.2.5). Free Software Foundation, Inc.
+		  #+END_PINNED
+	- *F*
+		- template:: tr4f
+		  #+BEGIN_PINNED
+		  Bodner, J. (2021). Learning Go: an idiomatic approach to real-world Go programming (1st ed.). O’Reily.
 		  #+END_PINNED
 - **5** 数学
 	- *A*
