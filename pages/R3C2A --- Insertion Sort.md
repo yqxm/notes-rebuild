@@ -27,7 +27,7 @@
 		- **Termination**: The loop terminates, and when it terminates, the invariant gives us a useful propery that helps show that the algorithm is correct.
 	- Thses three properties in insertion-sort:
 		- ==*Initialization*==: Before the first loop, when $i = 2$. The subarray $A[1:i-1]$ consist of only one element, so it is sorted.
-		- ==*Maintenance*==: The body of the `for` loop, move the values in  $A[i-1]$, $A[i-2]$, $A[i-3]$ and so on by one position to the right until it find the proper position for $A[i], at which point it insert the value of $A[i], but in sorted order.
+		- ==*Maintenance*==: The body of the `for` loop, move the values in  $A[i-1]$, $A[i-2]$, $A[i-3]$ and so on by one position to the right until it find the proper position for $A[i]$, at which point it insert the value of $A[i]$, but in sorted order.
 		- ==*Termination*==: The loop variable $i$ starts at 2 and increases by 1 in each iteration. Once $i$'s value exceeds $n$, the loop terminates. At this moment, $i = n+1$. Substituting $n+1$ for $i$ in $A[1:i-1]$ yields that the subarray $A[1:n]$ consist of the elements originally in $A[1:n]$, but in sorted order. Hence, the algorithm is correct.
 - [[RE3C2A1 --- 练习2]]
 - [[RE3C2A2 --- 练习3]]
