@@ -1,0 +1,1 @@
+- https://stackoverflow.com/questions/22387586/measuring-execution-time-of-a-function-in-c

@@ -14,6 +14,7 @@
 	- [[tr4d]] C语言程序设计: 现代方法
 	- [[tr4e]] The GNU C reference manual
 	- [[tr4f]] Learning Go
+	- [[tr4g]] 深入解析CSS
 - 数据库
 	- [[tr6a]] 数据库系统全书，2nd
 	- [[tr7a]] 数据库系统概念，7th
@@ -93,6 +94,11 @@
 		- template:: tr4f
 		  #+BEGIN_PINNED
 		  Bodner, J. (2021). Learning Go: an idiomatic approach to real-world Go programming (1st ed.). O’Reily.
+		  #+END_PINNED
+	- *G*
+		- template:: tr4g
+		  #+BEGIN_PINNED
+		  Grant, K. J. (2020). 深入解析CSS (黄小璐 & 高楠, Trans.; 1st ed.). 人民邮电出版社.
 		  #+END_PINNED
 - **5** 数学
 	- *A*
